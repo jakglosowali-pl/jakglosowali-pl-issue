@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Błąd bezpieczeństwa (prywatnie)
+    url: mailto:bartosz@jakglosowali.pl
+    about: Błędy bezpieczeństwa zgłaszaj prywatnie na e-mail, nie przez publiczne Issue
+  - name: 🌐 Strona JakGlosowali.pl
+    url: https://jakglosowali.pl
+    about: Odwiedź platformę
+  - name: 💼 LinkedIn
+    url: https://www.linkedin.com/company/jakglosowalipl
+    about: Śledź nas na LinkedIn
