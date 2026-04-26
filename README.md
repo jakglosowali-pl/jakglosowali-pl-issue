@@ -1,0 +1,1 @@
+# jakglosowali-pl-issue
